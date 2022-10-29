@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm software engineer from Faculty of Technical Sciences in Novi Sad.
+Let me introduce myself. My name is Nikola Dakić and I'm Software Engineer from Novi Sad, Serbia.
 
 Currently, I'm interested in web development and machine learning.
 
