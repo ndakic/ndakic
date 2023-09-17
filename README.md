@@ -1,9 +1,6 @@
 ### Hi There 👋
 
-Let me introduce myself. My name is Nikola Dakić and I'm Software Engineer from Novi Sad, Serbia.
-
-Currently, I'm interested in web development and machine learning.
-
+My name is Nikola Dakić and I'm Software Engineer from Novi Sad, Serbia.
 Some of my preferred tools are:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
