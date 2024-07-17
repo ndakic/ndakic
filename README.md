@@ -1,6 +1,30 @@
-### Hi There 👋
 
-My name is Nikola Dakić and I'm Software Engineer from Novi Sad, Serbia.
+
+### Hey 👋 I am Nikola Dakić,
+
+I write about software engineering, AI, DevOps, productivity, personal development and more!  
+Check out my blog [here](https://ndakic.com/). Let's connect on [LinkedIn](https://www.linkedin.com/in/ndakic/) or [Twitter](https://x.com/ndakic8).  
+
+Things I like doing (in no particular order) 😊
+- Building software 🛠️
+- Playing and watching tennis 🎾 Nole fan 🇷🇸🐐
+- Making perfect espresso ☕
+- Playing chess ♟️
+- Spending time with my wife and daughter 👨‍👩‍👧
+- Traveling 🌍
+- Playing with the latest tech gadgets 📱
+- Learning new things 📚
+- Sharing knowledge with others 🤝
+
+Education 🎓
+- MSc in Software Engineering, SIIT, Intelligent Systems, University of Novi Sad, Serbia
+- BSc in Software Engineering, SIIT, University of Novi Sad, Serbia
+
+Work experience 👔
+- Sr. Software Engineer, SugarCRM, Remote
+- Software Engineer, Brame (Branded Game), Remote
+- Software Engineer, Referrizer LLC, Remote
+
 Some of my preferred tools are:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
