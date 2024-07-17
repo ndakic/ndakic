@@ -3,7 +3,7 @@
 ### Hey 👋 I am Nikola Dakić,
 
 I write about software engineering, AI, DevOps, productivity, personal development and more!  
-Check out my blog [here](https://ndakic.com/). Let's connect on [LinkedIn](https://www.linkedin.com/in/ndakic/) or [Twitter](https://x.com/ndakic8).  
+Check out my blog [here](https://ndakic.com/). Let's connect on [LinkedIn](https://www.linkedin.com/in/ndakic/){target=”_blank”} or [Twitter](https://twitter.com/ndakic8){target=”_blank”}. 
 
 Things I like doing (in no particular order) 😊
 - Building software 🛠️
