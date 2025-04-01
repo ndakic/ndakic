@@ -2,8 +2,7 @@
 
 ### Hey 👋 I am Nikola Dakić,
 
-I write about software engineering, AI, DevOps, productivity, personal development and more!  
-Check out my blog [here](https://ndakic.com/). Let's connect on [LinkedIn](https://www.linkedin.com/in/ndakic/) or [Twitter](https://twitter.com/ndakic8). 
+I'm a software engineer with a master's degree and over 6 years of experience turning tricky tech problems into smooth, scalable solutions.
 
 Things I like doing (in no particular order) 😊
 - Building software 🛠️
