@@ -2,7 +2,7 @@
 
 ### Hey 👋 I am Nikola Dakić,
 
-I'm a software engineer with a master's degree and over 6 years of experience turning tricky tech problems into smooth, scalable solutions.
+I'm a software engineer with a master's degree and over 7 years of experience turning tricky tech problems into smooth, scalable solutions.
 
 Things I like doing (in no particular order) 😊
 - Building software 🛠️
