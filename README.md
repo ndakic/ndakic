@@ -2,8 +2,7 @@
 
 ### Hey 👋,
 
-My name is Nikola Dakic, and I’m a Sr. Software/AI Engineer helping startups and SMBs turn AI from a buzzword into a business advantage.  
-Whether you need a lean MVP to impress investors, smart chatbot, or custom AI tool, I’m your go-to AI partner.  
+My name is Nikola Dakic, and I’m a Sr. Software/AI Engineer helping startups and SMBs turn AI from a buzzword into a business advantage. Whether you need a lean MVP to impress investors, smart chatbot, or custom AI tool, I’m your go-to AI partner.  
 
 I'm founder of [Otterlab](https://otterlab.dev/) an AI-focused software development and consulting company,  
 and [Pencilo](https://pencilo.app/) an AI-powered writing assistant that helps you write better
