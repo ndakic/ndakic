@@ -22,9 +22,11 @@ Education 🎓
 - BSc in Software Engineering, SIIT, University of Novi Sad, Serbia
 
 Work experience 👔
-- Sr. Software Engineer, SugarCRM, Remote
-- Software Engineer, Brame (Branded Game), Remote
-- Software Engineer, Referrizer LLC, Remote
+- AI SaaS Product Builder, Dakic Tech
+- Founder of [Pencilo](https://pencilo.app/)
+- Sr. Software Engineer, SugarCRM
+- Software Engineer, Brame (Branded Game)
+- Software Engineer, Referrizer LLC
 
 Some of my preferred tools are:
 
