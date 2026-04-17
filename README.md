@@ -22,10 +22,11 @@ Education 🎓
 - BSc in Software Engineering, SIIT, University of Novi Sad, Serbia
 
 Work experience 👔
-- AI SaaS Product Builder, Dakic Tech
+- Sr. Software & AI Engineer, Dakic Tech
+- Founder of [Linspire](https://www.linspire.me/)
 - Founder of [Pencilo](https://pencilo.app/)
 - Sr. Software Engineer, SugarCRM
-- Software Engineer, Brame (Branded Game)
+- Sr. Software Engineer, Brame (Branded Game)
 - Software Engineer, Referrizer LLC
 
 Some of my preferred tools are:
