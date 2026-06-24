@@ -3,7 +3,7 @@
 ### Hey 👋,
 
 
-My name is Nikola Dakic I'm a Sr. Software/AI Engineer specializing in building production-grade SaaS products from AI prototypes. 
+My name is Nikola Dakic I'm a Fractional CTO & AI Architect specializing in building production-grade SaaS products from AI prototypes. 
 I help founders, startups, and small teams turn proof-of-concept apps into scalable, investor-ready software, from LLM integration and RAG pipelines to AI agents and full-stack web applications.
 
 Things I like doing (in no particular order) 😊
@@ -22,7 +22,7 @@ Education 🎓
 - BSc in Software Engineering, SIIT, University of Novi Sad, Serbia
 
 Work experience 👔
-- Sr. Software & AI Engineer, Dakic Tech
+- Fractional CTO & AI Architect, Dakic Tech
 - Founder of [Linspire](https://www.linspire.me/)
 - Founder of [Pencilo](https://pencilo.app/)
 - Sr. Software Engineer, SugarCRM
